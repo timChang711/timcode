@@ -1,9 +1,0 @@
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.Form1.resources
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.Properties.Resources.resources
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.csproj.GenerateResource.cache
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.csproj.CoreCompileInputs.cache
-C:\Users\hchang2\source\repos\HodlRateTool\bin\Debug\HodlRateTool.exe.config
-C:\Users\hchang2\source\repos\HodlRateTool\bin\Debug\HodlRateTool.exe
-C:\Users\hchang2\source\repos\HodlRateTool\bin\Debug\HodlRateTool.pdb
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.exe
-C:\Users\hchang2\source\repos\HodlRateTool\obj\Debug\HodlRateTool.pdb
